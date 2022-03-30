@@ -7,3 +7,5 @@ Tried to use the official colors from https://www.hackthebox.com/docs/Hack_The_B
 3. Place theme "theme.css" in this folder.
 4. Pick the theme in the "Colors" dialog.
 
+# Screenshot
+![SCreenshot](htb.png)
